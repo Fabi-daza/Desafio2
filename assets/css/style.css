@@ -16,6 +16,7 @@ body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/banner-home.jpg');  
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
 }
 
